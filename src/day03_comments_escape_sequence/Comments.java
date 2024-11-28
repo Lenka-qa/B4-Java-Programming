@@ -33,11 +33,11 @@ public class Comments {
         System.out.println("Valid code");
 
 
-        /**
+        /*
          3 - JAVA DOC COMMENT
          The following is Println statement
          It prints out "1st week of Java"
-         This is written by QA team member: Diana
+         This is written by QA team member: Elena
          */
         System.out.println("1st week of Java");
 
